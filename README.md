@@ -72,4 +72,6 @@ This repository contains my daily learning notes.
 
 [DAY 035] 2026-SEP-22 : Raspberry Pi, OpenCR Setup
 
-[DAY 036 - DAY 041] 2026-SEP-23~2026-OCT 2 : Computer Vision Theory; distortion, alignment, intrinsic matrix, back-projection
+[DAY 036-041] 2026-SEP-23~2026-OCT 2 : Computer Vision Theory; distortion, alignment, intrinsic matrix, back-projection
+
+[DAY 042 - DAY 044] 2026-OCT-6~2026-OCT-8 : DYNAMIXEL-OpenCR-Raspberry Pi Interface Trouble Shooting
