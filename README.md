@@ -81,3 +81,5 @@ This repository contains my daily learning notes.
 [DAY 046] 2026-OCT-13 : SLAM Theory and Implementation
 
 [DAY 047] 2026-OCT-14 : Gazebo, RViz, Cartographer
+
+[DAY 048 - DAY 049] 2026-OCT-15~2026-OCT-16 : Nav2 (AMCL, Global Planner, Local Controller)
