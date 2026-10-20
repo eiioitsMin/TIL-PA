@@ -74,7 +74,7 @@ This repository contains my daily learning notes.
 
 [DAY 036-041] 2026-SEP-23~2026-OCT 2 : Computer Vision Theory; distortion, alignment, intrinsic matrix, back-projection
 
-[DAY 042 - DAY 044] 2026-OCT-6~2026-OCT-8 : DYNAMIXEL-OpenCR-Raspberry Pi Interface Trouble Shooting
+[DAY 042-044] 2026-OCT-6~2026-OCT-8 : DYNAMIXEL-OpenCR-Raspberry Pi Interface Trouble Shooting
 
 [DAY 045] 2026-OCT-12 : Experiment with ROS2 perception node (OpenCR)
 
@@ -82,4 +82,6 @@ This repository contains my daily learning notes.
 
 [DAY 047] 2026-OCT-14 : Gazebo, RViz, Cartographer
 
-[DAY 048 - DAY 049] 2026-OCT-15~2026-OCT-16 : Nav2 (AMCL, Global Planner, Local Controller)
+[DAY 048-049] 2026-OCT-15~2026-OCT-16 : Nav2 (AMCL, Global Planner, Local Controller)
+
+[DAY 050-051] 2026-OCT-19~2026-OCT-20 : Isaac Sim, Isaac Lab, Isaac ROS & Reinforcement learning
