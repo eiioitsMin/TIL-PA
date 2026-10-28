@@ -84,4 +84,4 @@ This repository contains my daily learning notes.
 
 [DAY 048-049] 2026-OCT-15~2026-OCT-16 : Nav2 (AMCL, Global Planner, Local Controller)
 
-[DAY 050-051] 2026-OCT-19~2026-OCT-20 : Isaac Sim, Isaac Lab, Isaac ROS & Reinforcement learning
+[DAY 050-057] 2026-OCT-19~2026-OCT-28 : Isaac Sim, Isaac Lab, Isaac ROS & Reinforcement learning
