@@ -84,4 +84,6 @@ This repository contains my daily learning notes.
 
 [DAY 048-049] 2026-OCT-15~2026-OCT-16 : Nav2 (AMCL, Global Planner, Local Controller)
 
-[DAY 050-057] 2026-OCT-19~2026-OCT-28 : Isaac Sim, Isaac Lab, Isaac ROS & Reinforcement learning
+[DAY 050-059] 2026-OCT-19~2026-OCT-30 : Isaac Sim, Isaac Lab, Isaac ROS & Reinforcement learning
+
+[DAY 060] 2026-NOV-2 : Project 2 - SLAM - create map from front & rear lidars compensating each other
