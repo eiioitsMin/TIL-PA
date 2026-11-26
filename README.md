@@ -89,3 +89,5 @@ This repository contains my daily learning notes.
 [DAY 060] 2026-NOV-2 : Project 2 - SLAM - create map from front & rear lidars compensating each other
 
 [DAY 061-072] 2026-NOV-3~2026-NOV-18 : Project 2
+
+[DAY 073-078] 2026-NOV-19~2026-NOV-26 : VLA
